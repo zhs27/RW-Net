@@ -1,5 +1,5 @@
 # Demo
-This is the demo for my research on point cloud classification tasks.<br />
+This is the demo for RW-Net.<br />
 
 
 
